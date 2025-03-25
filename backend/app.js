@@ -21,6 +21,7 @@ app.use((req, res, next) => {
 });
 
 
+app.use('/api/story', storyRoutes);
 app.use("/api/auth", authRouter);
 
 
