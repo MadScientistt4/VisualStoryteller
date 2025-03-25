@@ -33,37 +33,37 @@ export default function VisualsPage() {
       id: 1,
       title: "Fantasy Castle",
       date: "Added Mar 15, 2025",
-      src: "",
+      src: "https://polymart-attachments.s3.amazonaws.com/70095384-e8c3-4c7b-bd1d-b3bc0bac535c/default/attachment.png",
     },
     {
       id: 2,
       title: "Dragon Illustration",
       date: "Added Mar 12, 2025",
-      src: "",
+      src: "https://as2.ftcdn.net/jpg/03/89/67/53/1000_F_389675304_xgTi91JLKsSfvB6f9bEACcE7JLWBGN13.jpg",
     },
     {
       id: 3,
       title: "Forest Landscape",
       date: "Added Mar 10, 2025",
-      src: "",
+      src: "https://i.pinimg.com/736x/71/8b/1b/718b1b205e0da6a1ca4a9027f9afccea.jpg",
     },
     {
       id: 4,
       title: "Character Concept",
       date: "Added Mar 5, 2025",
-      src: "",
+      src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6s1VRE1FiUpLmfIueeLDPvrrPJX2hbLH6QQ&s",
     },
     {
       id: 5,
       title: "Magic Portal",
       date: "Added Feb 28, 2025",
-      src: "",
+      src: "https://w0.peakpx.com/wallpaper/972/171/HD-wallpaper-fantasy-portal-child-magic.jpg",
     },
     {
       id: 6,
       title: "Ancient Map",
       date: "Added Feb 20, 2025",
-      src: "",
+      src: "https://images.stockcake.com/public/6/1/7/617c8618-f818-4b06-a0ab-4579018ab35f_large/ancient-world-map-stockcake.jpg",
     },
   ])
 
